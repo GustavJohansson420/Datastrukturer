@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\Datastrukturer\bin\Debug\net6.0\Datastrukturer.exe
+C:\Users\Admin\Documents\GitHub\Datastrukturer\bin\Debug\net6.0\Datastrukturer.deps.json
+C:\Users\Admin\Documents\GitHub\Datastrukturer\bin\Debug\net6.0\Datastrukturer.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Datastrukturer\bin\Debug\net6.0\Datastrukturer.dll
+C:\Users\Admin\Documents\GitHub\Datastrukturer\bin\Debug\net6.0\Datastrukturer.pdb
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.dll
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\refint\Datastrukturer.dll
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.pdb
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\Datastrukturer.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Datastrukturer\obj\Debug\net6.0\ref\Datastrukturer.dll
